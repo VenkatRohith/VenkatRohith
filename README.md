@@ -4,7 +4,7 @@ I'm a Fullstack (Web) Software Engineer interested in building elegant and inter
 
 - 👀 I’m interested in JS & all its frameworks (inclined towards **React⚛️** a bit😉)
 - 😍 A Naruto ☯️ & One Punch Man 🧑🏻‍🦲 fan
-- 🌱 I’m currently learning Web Components🧩
+- 🌱 I’m currently learning Web Components🧩 and TypeScript⚡
 - 📫 [LinkedIn](http://www.linkedin.com/in/venkat-rohith-saripalli "For my work experience") | [Mail](mailto:saripallirohit@gmail.com?subject=Hey%20I%20saw%20your%20GitHub%20Profile "Get quick replies😁")
 - 💞️ I’m looking to collaborate on React & Redux
 
