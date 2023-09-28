@@ -10,6 +10,11 @@ I'm a Frontend Software Engineer interested in building elegant and interative w
 - 💞️ I’m looking to collaborate on Javascript Applications containing accessibility issues
 
 ![](https://komarev.com/ghpvc/?username=venkatrohith&color=brightgreen)
+<!--<img
+  alt="GitHub Stats for @venkatrohith"
+  src="https://github-readme-stats.vercel.app/api?username=venkatrohith&theme=github_dark&show_icons=true&count_private=true&hide_title=true"
+  title="I don't emphasize much about these much"
+/>-->
 
 <!---
 VenkatRohith/VenkatRohith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
