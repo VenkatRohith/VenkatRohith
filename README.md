@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rohith
 
-I'm a Frontend Software Engineer interested in building elegant and interative websites
+I'm a Software Engineer interested in building elegant and interative websites
 
 - 👀 I love ❤️ JavaScript & all its frameworks (inclined towards **React⚛️** a bit😉)
 - 😍 A Naruto ☯️ & One Punch Man 🧑🏻‍🦲 fan, currently loving One Piece 🏴‍☠️😍
