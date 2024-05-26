@@ -5,7 +5,7 @@ I'm a Software Engineer interested in building elegant and interative websites
 - 👀 I love ❤️ JavaScript & all its frameworks (inclined towards **React⚛️** a bit😉)
 - 😍 A Naruto ☯️ & One Punch Man 🧑🏻‍🦲 fan, currently loving One Piece 🏴‍☠️😍
 <!--- 🌱 Actively learning Accessibility (AA standard) 🧑🏻‍🦼🦻🏻🦮🧑🏻‍🦯 by building a chat application-->
-🌱 I’m currently learning Web Components🧩 [QuickChat](https://venkatrohith.github.io/quick-chat) 💬
+- 🌱 I’m currently learning Web Components🧩 [QuickChat](https://venkatrohith.github.io/quick-chat) 💬
 - 📫 [LinkedIn](https://www.linkedin.com/in/venkat-rohith "For my work experience") | [Mail](mailto:saripallirohit@gmail.com?subject=Hey%20I%20saw%20your%20GitHub%20Profile "Get quick replies😁")
 - 💞️ I’m looking to collaborate on Javascript Applications containing web components or based on React
 <!--- 🌱 I’m currently learning Web Components🧩, TypeScript⚡ -->
